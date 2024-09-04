@@ -1,3 +1,6 @@
+學術部 報帳網站 not implemented yet!
+under development solely by chuanEgg
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
